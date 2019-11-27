@@ -1,0 +1,14 @@
+{
+  "name": "notybot",
+  "version": "1.0.0",
+  "description": "A Keybase Bot that says \"No, thank YOU <user-name>\" whenever anyone says \"Thank you\".",
+  "main": "notybot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "austinmcphail",
+  "license": "ISC",
+  "dependencies": {
+    "keybase-bot": "^3.0.4"
+  }
+}
