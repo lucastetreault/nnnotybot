@@ -9,7 +9,7 @@
   "author": "austinmcphail",
   "license": "ISC",
   "dependencies": {
-    "keybase-bot": "^3.0.4"
+    "keybase-bot": "3.6.1"
   },
   "repository": {
     "type": "git",

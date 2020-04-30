@@ -10,6 +10,11 @@ async function main () {
     const onMessage = message => {
       const channel = message.channel
       const sender = message.sender
+
+	if (!message.content.text){
+		return
+	}
+
       const body = message.content.text.body
 
       const username = sender.username
